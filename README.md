@@ -17,6 +17,6 @@ Done.
 
 Everything else is wrote in the Section "How to use it".
 # Other Instructions
-How to **Upload a Video to youtube.com**
+How to **Upload a Video to youtube.com with this app**
 
 Coming soon...
