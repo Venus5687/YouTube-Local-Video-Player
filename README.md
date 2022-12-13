@@ -1,7 +1,8 @@
 # YouTube-Local-Video-Player
 The 2013 YouTube Video Player but you can only play local files.
 # How to use it
-![Instructions](https://user-images.githubusercontent.com/96628563/206901772-64ec526c-52cc-4e49-80e0-7eeeda372772.png)
+![Instructions](https://user-images.githubusercontent.com/96628563/207370858-b045c979-b472-4cf0-ab38-567ce2ff41ee.png)
+
 
 Here's an image of how to use it.
 # Player Instructions
@@ -19,4 +20,8 @@ Everything else is wrote in the Section "How to use it".
 # Other Instructions
 How to **Upload a Video to youtube.com with this app**
 
-Coming soon...
+1) Press the YouTube Logo
+ 
+2) Select your browser (only in Windows 10, 8.1 and 8)
+
+Done.
